@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This app was made only for learning React, Redux and Saga.
-You can create and add posts or upload some from [https://jsonplaceholder.typicode.com/](jsonplaceholder).
+You can create and add posts or upload some from [jsonplaceholder](https://jsonplaceholder.typicode.com/).
 
-[https://react-redux-saga-learning-cgdgtfl7r-kaamosdao.vercel.app/](Depoyed on vercel).
+[Depoyed on vercel](https://react-redux-saga-learning-cgdgtfl7r-kaamosdao.vercel.app/).
 
 ## Available Scripts
 
